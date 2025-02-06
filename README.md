@@ -6,7 +6,7 @@
 
 
 ## 🛠 Skills
-python , meachine learning , deep learning, NLP  
+Python , Meachine Learning , Deep Learning, Natural Language Programming  
 
 
 - 🌱 I’m currently learning Data scientist...
